@@ -1,0 +1,12 @@
+{
+    "id" : "C001012001",
+    "name" : "보라매 공원 테마 놀이터",
+    "location": "서울 동작구 여의대방로20길 33",
+    "latitude" : "37.490973380771365",
+    "longitude" : "126.91825774098099",
+    "radius" : 52,
+    "telephone" : "02-2181-1196",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "http://parks.seoul.go.kr/boramae",
+    "data" : []
+}

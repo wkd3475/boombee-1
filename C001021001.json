@@ -1,0 +1,12 @@
+{
+    "id" : "C001021001",
+    "name" : "용산 가족공원",
+    "location": "서울 용산구 서빙고로 137 국립중앙박물관",
+    "latitude" : "37.52391434782926",
+    "longitude" : "126.98389043454064",
+    "radius" : 77,
+    "telephone" : "02-2792-5661",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "http://www.park.go.kr/board.board.gongji.twf",
+    "data" : []
+}

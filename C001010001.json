@@ -1,0 +1,12 @@
+{
+    "id" : "C001010001",
+    "name" : "초안산 생태공원",
+    "location": "서울특별시 도봉구 창동 산158",
+    "latitude" : "37.64810654967058",
+    "longitude" : "127.04577498649088",
+    "radius" : 82,
+    "telephone" : "02-2091-3765",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "http://tour.dobong.go.kr/Contents.asp?code=10003485",
+    "data" : []
+}
