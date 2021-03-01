@@ -1,0 +1,192 @@
+[
+    {
+        "id": "C001002001",
+        "name": "광나루 인라인스케이트장 옆 잔디",
+        "location": "서울 강동구 천호동 481-6",
+        "latitude": "37.543316",
+        "longitude": "127.116928",
+        "radius": 96,
+        "telephone": "02-3780-0501",
+        "hour": "매일 00:00 - 24:00",
+        "website": "https://hangang.seoul.go.kr/archives/46585",
+        "data": [
+            {
+                "date": "2021-02-02 08:00",
+                "density": 20,
+                "average_distance": 35
+            },
+            {
+                "date": "2021-02-02 09:00",
+                "density": 30,
+                "average_distance": 30
+            },
+            {
+                "date": "2021:01:24 16:15:04",
+                "density": 5.244699266210208,
+                "average_distance": 15.479060281216768
+            },
+            {
+                "date": "2021:01:24 16:15:04",
+                "density": 5.244699266210208,
+                "average_distance": 15.479060281216768
+            },
+            {
+                "date": "2021:01:24 16:15:04",
+                "density": 5.244699266210208,
+                "average_distance": 15.479060281216768
+            }
+        ]
+    },
+    {
+        "id": "C001002002",
+        "name": "광나루 자전거공원",
+        "location": "서울특별시 강동구 천호동 481-9",
+        "latitude": "37.546271663515704",
+        "longitude": "127.11956541112045",
+        "radius": 170,
+        "telephone": "02-3780-0501",
+        "hour": "매일 00:00 - 24:00",
+        "website": "https://hangang.seoul.go.kr/archives/46585",
+        "data": [
+            {
+                "date": "2021:01:24 16:22:51",
+                "density": 11.168260281334915,
+                "average_distance": 10.607477602195589
+            },
+            {
+                "date": "2021:01:24 16:22:51",
+                "density": 11.168260281334915,
+                "average_distance": 10.607477602195589
+            },
+            {
+                "date": "2021:01:24 16:22:51",
+                "density": 11.168260281334915,
+                "average_distance": 10.607477602195589
+            }
+        ]
+    },
+    {
+        "id": "C001002003",
+        "name": "광나루 한강드론공원",
+        "location": "서울특별시 강동구 천호동 351-1",
+        "latitude": "37.54692911813641",
+        "longitude": "127.11936249444318",
+        "radius": 142,
+        "telephone": "02-3780-0501",
+        "hour": "매일 00:00 - 24:00",
+        "website": "https://hangang.seoul.go.kr/archives/46585",
+        "data": [
+            {
+                "date": "2021:01:24 16:42:38",
+                "density": 1.379128484485683,
+                "average_distance": 30.185788347860292
+            },
+            {
+                "date": "2021:01:24 16:42:38",
+                "density": 1.379128484485683,
+                "average_distance": 30.185788347860292
+            },
+            {
+                "date": "2021:01:24 16:42:38",
+                "density": 1.379128484485683,
+                "average_distance": 30.185788347860292
+            }
+        ]
+    },
+    {
+        "id" : "C001002004",
+        "name" : "광나루 어린이놀이터",
+        "location": "서울특별시 강동구 천호동 351-1",
+        "latitude" : "37.54749479193997",
+        "longitude" : "127.12086721369194",
+        "radius" : 41,
+        "telephone" : "02-3780-0501",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "https://hangang.seoul.go.kr/archives/46585",
+        "data" : []
+    },
+    {
+        "id" : "C001006001",
+        "name" : "뚝섬 한강공원",
+        "location": "서울 광진구 강변북로 139",
+        "latitude" : "37.5291106229912",
+        "longitude" : "127.07032480162056",
+        "radius" : 130,
+        "telephone" : "02-3780-0521",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://hangang.seoul.go.kr/archives/46661",
+        "data" : []
+    },
+    {
+        "id" : "C001010001",
+        "name" : "초안산 생태공원",
+        "location": "서울특별시 도봉구 창동 산158",
+        "latitude" : "37.64810654967058",
+        "longitude" : "127.04577498649088",
+        "radius" : 82,
+        "telephone" : "02-2091-3765",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://tour.dobong.go.kr/Contents.asp?code=10003485",
+        "data" : []
+    },
+    {
+        "id" : "C001012001",
+        "name" : "보라매 공원 테마 놀이터",
+        "location": "서울 동작구 여의대방로20길 33",
+        "latitude" : "37.490973380771365",
+        "longitude" : "126.91825774098099",
+        "radius" : 52,
+        "telephone" : "02-2181-1196",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://parks.seoul.go.kr/boramae",
+        "data" : []
+    },
+    {
+        "id" : "C001012002",
+        "name" : "보라매 공원 반려견 놀이터",
+        "location": "서울 동작구 여의대방로20길 33",
+        "latitude" : "37.49080738124776",
+        "longitude" : "126.91952374358806",
+        "radius" : 40,
+        "telephone" : "02-2181-1196",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://parks.seoul.go.kr/boramae",
+        "data" : []
+    },
+    {
+        "id" : "C001015001",
+        "name" : "반포 한강공원 달빛광장",
+        "location": "서울 서초구 신반포로11길 40",
+        "latitude" : "37.51153072109892",
+        "longitude" : "126.9978962549022",
+        "radius" : 160,
+        "telephone" : "02-591-5943",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://hangang.seoul.go.kr/archives/46727",
+        "data" : []
+    },
+    {
+        "id" : "C001020001",
+        "name" : "여의도 한강공원",
+        "location": "서울 영등포구 여의동로 330",
+        "latitude" : "37.529056832911664",
+        "longitude" : "126.93239146534466",
+        "radius" : 103,
+        "telephone" : "02-3780-0561",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://hangang.seoul.go.kr/archives/46758",
+        "data" : []
+    },
+    {
+        "id" : "C001021001",
+        "name" : "용산 가족공원",
+        "location": "서울 용산구 서빙고로 137 국립중앙박물관",
+        "latitude" : "37.52391434782926",
+        "longitude" : "126.98389043454064",
+        "radius" : 77,
+        "telephone" : "02-2792-5661",
+        "hour" : "매일 00:00 - 24:00",
+        "website" : "http://www.park.go.kr/board.board.gongji.twf",
+        "data" : []
+    }
+]

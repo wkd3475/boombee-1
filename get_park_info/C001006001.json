@@ -1,0 +1,12 @@
+{
+    "id" : "C001006001",
+    "name" : "뚝섬 한강공원",
+    "location": "서울 광진구 강변북로 139",
+    "latitude" : "37.5291106229912",
+    "longitude" : "127.07032480162056",
+    "radius" : 130,
+    "telephone" : "02-3780-0521",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "http://hangang.seoul.go.kr/archives/46661",
+    "data" : []
+}

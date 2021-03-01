@@ -1,0 +1,12 @@
+{
+    "id" : "C001020001",
+    "name" : "여의도 한강공원",
+    "location": "서울 영등포구 여의동로 330",
+    "latitude" : "37.529056832911664",
+    "longitude" : "126.93239146534466",
+    "radius" : 103,
+    "telephone" : "02-3780-0561",
+    "hour" : "매일 00:00 - 24:00",
+    "website" : "http://hangang.seoul.go.kr/archives/46758",
+    "data" : []
+}
